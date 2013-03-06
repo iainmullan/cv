@@ -1,0 +1,35 @@
+body {
+	font-family: Helvetica;
+	color: #333;
+	background: #efefef;
+}
+
+header,
+section,
+footer {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+section {
+	padding: 10px 0;
+}
+
+h1 {
+	font-size: 48px;
+}
+
+#updated {
+	float:right;
+}
+
+div.position {
+	margin: 40px 0;
+	clear:right;
+}
+
+.position .date {
+	font-style: italic;
+	color: #777;
+}
+
